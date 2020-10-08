@@ -7,3 +7,5 @@ WhatsUp Code;-
 3.Attachment(Image, Video, file) code
 
 4.Status Code
+
+5.Hiding the Last Seen
