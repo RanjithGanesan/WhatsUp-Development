@@ -13,3 +13,5 @@ WhatsUp Code;-
 6.Adding Audio feature
 
 7.Adding Video feature
+
+8.Adding video to Status
