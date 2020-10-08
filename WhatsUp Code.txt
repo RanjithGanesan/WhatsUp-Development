@@ -9,3 +9,7 @@ WhatsUp Code;-
 4.Status Code
 
 5.Hiding the Last Seen
+
+6.Adding Audio feature
+
+7.Adding Video feature
