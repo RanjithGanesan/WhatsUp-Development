@@ -14,4 +14,4 @@ WhatsUp Code;-
 
 7.Adding Video feature
 
-8.Adding video to Status, only for 15 secongs like a short video
+8.Adding video to Status, extented the time limit to 60 seconds
